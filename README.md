@@ -1,4 +1,4 @@
-# MESSAGE FOR Tripsi OR Trillarian
+# MESSAGE FOR Trispi OR Trillarian
 
 Hi,
 
