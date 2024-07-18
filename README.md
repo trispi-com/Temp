@@ -1,9 +1,9 @@
 # MESSAGE FOR Tripsi OR Trillarian
 
-Ciao,
+Hi,
 
-spero che tu possa leggere questo messaggio, non avendo la tua email ci provo qui.
+I hope you can read this message, as I don't have your email, I'm trying to reach you here.
 
-Vorremmo creare l'organizzazione "Trispi" su GitHub, ma sembra che sia già stata registrata da te. Saresti disponibile a valutare la possibilità di trasferirci il nome dell'organizzazione?
+We would like to create the organization "Trispi" on GitHub, but it seems that it has already been registered by you. Would you be willing to consider transferring the organization name to us?
 
-Grazie mille per la tua attenzione.
+Thank you very much for your attention.
